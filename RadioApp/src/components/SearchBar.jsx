@@ -57,4 +57,3 @@ export default function SearchBar({ onSearch, isSearching }) {
   );
 }
 
-// klaar voor codereview

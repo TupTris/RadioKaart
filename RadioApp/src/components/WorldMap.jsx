@@ -208,5 +208,3 @@ export default function WorldMap({ onCountrySelect, selectedCountry }) {
     </div>
   );
 }
-
-// klaar voor codereview

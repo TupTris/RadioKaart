@@ -196,4 +196,3 @@ export default function Home({ currentStation, onPlay }) {
   );
 }
 
-// klaar voor codereview
