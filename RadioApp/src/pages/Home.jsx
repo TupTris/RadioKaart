@@ -195,3 +195,5 @@ export default function Home({ currentStation, onPlay }) {
     </div>
   );
 }
+
+// klaar voor codereview

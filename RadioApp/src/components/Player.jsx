@@ -160,3 +160,5 @@ export default function Player({ station, onClose }) {
     </div>
   );
 }
+
+// klaar voor codereview

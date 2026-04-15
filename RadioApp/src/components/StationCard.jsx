@@ -74,3 +74,5 @@ export default function StationCard({ station, isPlaying, onPlay }) {
     </div>
   );
 }
+
+// klaar voor codereview

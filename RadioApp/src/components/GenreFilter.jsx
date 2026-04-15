@@ -27,3 +27,5 @@ export default function GenreFilter({ selectedGenre, onGenreSelect }) {
     </div>
   );
 }
+
+// klaar voor codereview

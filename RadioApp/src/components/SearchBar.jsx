@@ -56,3 +56,5 @@ export default function SearchBar({ onSearch, isSearching }) {
     </form>
   );
 }
+
+// klaar voor codereview
